@@ -1,0 +1,24 @@
+{
+  "name": "jest-file-transform",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Custom Jest transformer turning SVGs into React Components and the rest of file imports into filenames.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliolir/jest-file-transform.git"
+  },
+  "keywords": [
+    "jest",
+    "jest-transform"
+  ],
+  "author": "elliolir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elliolir/jest-file-transform/issues"
+  },
+  "homepage": "https://github.com/elliolir/jest-file-transform#readme",
+  "dependencies": {
+    "camelcase": "^8.0.0"
+  }
+}
